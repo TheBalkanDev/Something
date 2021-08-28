@@ -98,7 +98,7 @@ class Player extends \pocketmine\Player {
 	 */
 	public function handleInventoryTransaction(InventoryTransactionPacket $packet) : bool {
 		$return = parent::handleInventoryTransaction($packet);
-		if($packet->transactionType === InventoryTransactionPacket::TYPE_USE_ITEM_ON_ENTITY) {
+		if($packet->trData->getTypeId() === InventoryTransactionPacket::TYPE_USE_ITEM_ON_ENTITY)
 			$type = $packet->trData->actionType;
 			switch($type) {
 				case InventoryTransactionPacket::USE_ITEM_ON_ENTITY_ACTION_INTERACT:
