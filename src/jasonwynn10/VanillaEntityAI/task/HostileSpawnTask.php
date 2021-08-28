@@ -1,7 +1,5 @@
 <?php
-
 declare(strict_types=1);
-
 namespace jasonwynn10\VanillaEntityAI\task;
 
 use jasonwynn10\VanillaEntityAI\data\BiomeEntityList;
@@ -71,3 +69,4 @@ class HostileSpawnTask extends Task {
 			}
 		}
 	}
+}
