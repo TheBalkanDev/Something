@@ -1,0 +1,13 @@
+name: NichiOneblock
+description: A powerful core for OneBlock server
+author: GiantQuartz
+editor: BaliGamerz
+website: twitter.com/GiantQuartz
+main: BaliGamerz\OneBlock\OneBlock
+version: 14.0
+api: 3.0.0
+
+permissions:
+  OneBlock.interaction:
+    description: Allows players to interact with an island regardless of whether they belong to it
+    default: op
