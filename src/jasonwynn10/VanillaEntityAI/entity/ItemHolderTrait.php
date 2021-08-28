@@ -130,7 +130,7 @@ trait ItemHolderTrait {
 		$player->dataPacket($pk);
 		$pk = new MobEquipmentPacket();
 		$pk->entityRuntimeId = $this->getId();
-		$pk->item = ItemStackWrapper::legacy(Item::get(ItemIds::AIR));`
+		$pk->item = ItemStackWrapper::legacy(Item::get(ItemIds::AIR));
 		$pk->inventorySlot = $pk->hotbarSlot = ContainerIds::OFFHAND;
 		$player->dataPacket($pk);
 	}
