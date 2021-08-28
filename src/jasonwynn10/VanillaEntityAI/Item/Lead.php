@@ -6,7 +6,7 @@ namespace jasonwynn10\VanillaEntityAI\item;
 
 use pocketmine\item\Item;
 
-class Saddle extends Item {
+class Lead extends Item {
 
 
 }
