@@ -22,4 +22,4 @@ Look at the Features.
 With this plugin, mobs spawn almost exactly like they do in vanilla! Using custom algorithms and tracking AI, this plugin makes the server-mob experience as close as possible, while still keeping the server lag-free!
 
 ## Credits
-##### Big ##### Credits to [Jason](https://github.com/jasonwynn10)
+##### Big Credits to [Jason](https://github.com/jasonwynn10)
