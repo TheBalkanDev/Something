@@ -1,6 +1,7 @@
 <?php
 
 declare(strict_types=1);
+
 namespace jasonwynn10\VanillaEntityAI\block;
 
 use jasonwynn10\VanillaEntityAI\tile\MobSpawner;
