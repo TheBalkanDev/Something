@@ -269,7 +269,7 @@ abstract class CreatureBase extends Creature implements Linkable, Collidable, Lo
 	public function onCollideWithBlock(Block $block) : void {
 	}
 
-	public function push(CreatureBase $source) : void {
+	public function push(Collidable $source) : void {
 		//Get speed of that close player
 		$sourceSpeed = abs($source->getMotion()->x) + abs($source->getMotion()->z);
 		$selfSpeed = abs($this->getMotion()->x) + abs($this->getMotion()->z);
