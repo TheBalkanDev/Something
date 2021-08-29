@@ -110,9 +110,8 @@ class Player extends \pocketmine\Player {
 						return true;
 						break;
 					}
-				break;
 			}
 		}
-		return $return;
+		return true;
 	}
 }
