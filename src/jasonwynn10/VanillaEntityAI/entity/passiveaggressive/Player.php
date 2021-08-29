@@ -115,3 +115,4 @@ class Player extends \pocketmine\Player {
 		return true;
 	}
 }
+		
