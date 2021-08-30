@@ -15,6 +15,7 @@ Look at the Features.
 - [ ] End Fight
 - [ ] Wither Spawning
 - [ ] Pillager Spawning in Plains (maybe)
+- [ ] Standallone Plugin
 - [ ] More Stuff
 - [X] Dev Friendly, just open an Pull Request!
 
