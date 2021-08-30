@@ -5,6 +5,7 @@ A fork of jasonwynn10ˋs [VanillaEntityAI](https://github.com/jasonwynn10/Vanill
 Similar to the [Mob Plugin](https://github.com/Nukkit-coders/MobPlugin) for Nukkit.
 
 ## It donˋt work!
+• PM 4 WASNˋT IMPLEMENTED YET!
 • Yeah, this Plugin is very hard to fix, because it works with very complicate algorithms and Packets.
 • I do my best to fix it. If you want open an pull-request!
 • I will add new stuff when it's completely fixed!
