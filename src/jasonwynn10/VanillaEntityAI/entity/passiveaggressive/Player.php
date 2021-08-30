@@ -111,8 +111,6 @@ class Player extends \pocketmine\Player {
 						break;
 					}
 			}
-		}
 		return true;
 	}
 }
-		
