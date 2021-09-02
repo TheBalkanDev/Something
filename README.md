@@ -1,8 +1,5 @@
 # MobPlugin-PM
 
-##### DISCONTINIUED!
-• This Plugin wonˋt get Updated anymore, Itˋ unfixible.
-
 A fork of jasonwynn10ˋs [VanillaEntityAI](https://github.com/jasonwynn10/VanillaEntityAI) Plugin.
 
 Similar to the [Mob Plugin](https://github.com/Nukkit-coders/MobPlugin) for Nukkit.
