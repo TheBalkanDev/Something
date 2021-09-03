@@ -2,7 +2,7 @@
 
 A fork of jasonwynn10ˋs [VanillaEntityAI](https://github.com/jasonwynn10/VanillaEntityAI) Plugin.
 
-Similar to the [Mob Plugin](https://github.com/Nukkit-coders/MobPlugin) for Nukkit.
+Similar to the [Mob Plugin](https://github.com/Nukkit-coders/MobPlugin) for NukkitX.
 
 ## It donˋt work!
 • Yeah, this Plugin is very hard to fix, because it works with very complicate algorithms and Packets.
