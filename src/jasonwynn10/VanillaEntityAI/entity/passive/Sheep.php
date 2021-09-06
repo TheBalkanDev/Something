@@ -2,7 +2,6 @@
 declare(strict_types=1);
 namespace jasonwynn10\VanillaEntityAI\entity\passive;
 
-use jasonwynn10\VanillaEntityAI\data\ColorToMeta;
 use jasonwynn10\VanillaEntityAI\entity\AnimalBase;
 use jasonwynn10\VanillaEntityAI\entity\Collidable;
 use jasonwynn10\VanillaEntityAI\entity\Interactable;
