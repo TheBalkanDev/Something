@@ -98,10 +98,10 @@ class Player extends \pocketmine\Player {
 	 */
 	public function handleInventoryTransaction(InventoryTransactionPacket $packet) : bool {
 		$return = parent::handleInventoryTransaction($packet);
-		if($packet->trData->getTypeId() === InventoryTransactionPacket::TYPE_USE_ITEM_ON_ENTITY);
+		if($packet->trData->getTypeId() === InventoryTransactionPacket::TYPE_USE_ITEM);
 			$type = $packet->trData->actionType;
 			switch($type) {
-				case InventoryTransactionPacket::USE_ITEM_ON_ENTITY_ACTION_INTERACT:
+				case InventoryTransactionPacket::TYPE_USE_ITEM_ON_ENTITY:
 					$target = $this->level->getEntity($packet->trData->entityRuntimeId);
 					$this->setTargetEntity($target);
 					$this->getDataPropertyManager()->setString(Entity::DATA_INTERACTIVE_TAG, ""); // Don't show button anymore
