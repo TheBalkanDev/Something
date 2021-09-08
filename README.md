@@ -1,3 +1,8 @@
+> # BIG UPDATE:
+> MobPlugin 1.0.0-ALPHA.
+> Based on the Altay AI.
+> Coming soon!
+
 # MobPlugin-PM
 
 A fork of jasonwynn10ˋs [VanillaEntityAI](https://github.com/jasonwynn10/VanillaEntityAI) Plugin.
@@ -21,6 +26,8 @@ Look at the Features.
 - [ ] Wither Spawning
 - [ ] Pillager Spawning in Plains (maybe)
 - [ ] Standallone Plugin
+- [ ] Boss Bar Support
+- [ ] Some Commands
 - [X] Dev Friendly, just open an Pull Request!
 
 ## About
