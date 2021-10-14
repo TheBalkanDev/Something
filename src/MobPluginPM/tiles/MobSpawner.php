@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace jasonwynn10\VanillaEntityAI\tile;
+namespace MobPluginPM\tiles;
 
 use jasonwynn10\VanillaEntityAI\entity\CreatureBase;
 use jasonwynn10\VanillaEntityAI\EntityAI;
