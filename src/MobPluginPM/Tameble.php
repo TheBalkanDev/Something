@@ -22,7 +22,7 @@
 
 declare(strict_types=1);
 
-namespace soon xD
+namespace MobPluginPM;
 
 use pocketmine\nbt\tag\StringTag;
 use pocketmine\utils\UUID;
