@@ -28,5 +28,5 @@ interface SpawnPlacementTypes{
 
 	public const PLACEMENT_TYPE_ON_GROUND = 0;
 	public const PLACEMENT_TYPE_IN_AIR = 1;
-	public const PLACEMENT_TYPE_IN_WATER = 2;
+	public const PLACEMENT_TYPE_IN_WATER = 2
 }
