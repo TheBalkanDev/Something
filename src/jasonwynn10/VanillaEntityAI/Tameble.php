@@ -22,7 +22,7 @@
 
 declare(strict_types=1);
 
-namespace pocketmine\entity;
+namespace soon xD
 
 use pocketmine\nbt\tag\StringTag;
 use pocketmine\utils\UUID;
