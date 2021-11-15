@@ -4,9 +4,7 @@ version: 0.0.9-alpha
 api:
 - 4.0.0
 mcpe-protocols:
-- 448
-description: "A plugin for vanilla-like mob AI"
-author: "jasonwynn10"
+- 471
+description: "A plugin for vanilla-like mob AI, based on Altays AI"
+author: "TuranicTeam"
 load: STARTUP
-softdepend:
-- PureEntitiesX
